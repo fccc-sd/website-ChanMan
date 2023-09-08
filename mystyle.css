@@ -30,14 +30,11 @@ ol{
 }
 #God{
     color: rgb(255, 225, 57);
-    font-style: bold; 
+    font-style: italic; 
     font-size: 1.02em;
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .importantPeople{
     color:white;
     font: italic 1em/1em Georgia, 'Times New Roman', Times, serif; 
-}
-#cf{
-    color:red;
 }
