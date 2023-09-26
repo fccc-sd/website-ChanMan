@@ -10,10 +10,10 @@ h2 {
 }
 
 body{
-    background-color:black;
+    background-color:rgb(0, 0, 0);
     font-size: 1em;
     font-weight:normal;
-    color:white
+    color:honeydew;
 }
 
 P{
@@ -22,16 +22,17 @@ P{
 
 em{
     font-family:Georgia,'Times New Roman', Times, serif;
-    color: white;
+    color: rgb(252, 255, 68); 
+
 }
 
 ol{
-    color:rgb(238, 225, 44);
+    color:azure;
     font-style: italic;
 }
 
 #family{
-    color:red;
+    color:red; 
 }
 
 
@@ -43,8 +44,9 @@ ol{
 }
 
 .importantPeople{
-    color:white;
+    color:rgb(252, 255, 68);
     font: italic 1em/1em Georgia, 'Times New Roman', Times, serif; 
+
 }
 
 #Important{
@@ -54,4 +56,10 @@ ol{
 #lessImportant{
     font: italic 1em/1em Arial, Helvetica, sans-serif; 
     font-size: 1.05em; 
+}
+#Friends{
+    color:azure; 
+}
+#pic{
+    
 }
