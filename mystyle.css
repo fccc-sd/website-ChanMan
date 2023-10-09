@@ -29,6 +29,7 @@ em{
 ol{
     color:azure;
     font-style: italic;
+    list-style-type: decimal; 
 }
 
 #family{
@@ -59,4 +60,23 @@ ol{
 }
 #Friends{
     color:azure; 
+}
+
+nav{
+background-color: white; 
+line-height:200%; 
+display:block; 
+}
+nav li 
+{
+display: inline; 
+padding-right: 40px; 
+list-style-type: none;
+}
+
+nav a:link {
+color:red; 
+}
+nav a:visited {
+    color:red; 
 }
