@@ -1,16 +1,18 @@
-h1{
-    color:rgb(125, 0, 2);
-    text-align: center;
-    font: bold 2.5em/2.5em Georgia, 'Times New Roman', Times, serif; 
-    line-height: 2em;
+h1{ 
+    color:rgb(125, 0, 2); 
+    text-align: center; 
+    font: bold 2.5em/2.5em Georgia, 'Times New Roman', Times, serif;  
+    line-height: 2em; 
+} 
+
+body{ 
+    background-color:rgb(0, 0, 0); 
+    font-size: 1em; 
+    font-weight:normal; 
+    color:white; 
+    
 }
 
-body{
-    background-color:rgb(0, 0, 0);
-    font-size: 1em;
-    font-weight:normal;
-    color:white;
-}
 
 P{
     font-family:Arial, Helvetica, sans-serif; 
@@ -89,53 +91,56 @@ header
     padding:25px; 
 }
 
-aside
-{
+aside 
+{ 
     width: 200px; 
     margin: 0px 10px 10px 0px; 
     height: 600px; 
     padding: 10px; 
     float: left; 
-}
+} 
 
-section
-{
+section 
+{ 
     width: 675px; 
     margin: 0px 0px 10px 0px; 
-    height: 600px;
+    height: 600px; 
     padding: 10px; 
-    float: right; 
-}
+    float: right;  
+} 
 
 
-footer
-{
+footer 
+{ 
     clear: both; 
-    padding: 10px; 
-    height: 275px; 
-}
+    padding: 10px;  
+    height: 275px;  
+} 
 
-#container 
-{
-    background-color:rgb(0, 0, 0); 
-    width: 960px; 
-    margin: 0 500px; 
-}
+#container  
+{ 
+    background-color:rgb(0, 0, 0);  
+    width: 960px;  
+    margin: 0 500px;   
+} 
 
-main
-{
-    height: 500px;
-    width: 910px; 
-    padding:25px; 
-    background-color:rgb(0, 0, 0); 
-}
-img
-{
-    vertical-align: top; 
-    padding: 20px; 
-    margin:265px;
-}
-C-_-
-{
-    color: rgb(19, 19, 19);
-}
+main 
+{ 
+    height: 500px; 
+    width: 910px;  
+    padding:25px;  
+    background-color:rgb(0, 0, 0);  
+} 
+img 
+{ 
+    vertical-align: top;  
+    padding: 20px;  
+    margin:265px;  
+    float:initial; 
+} 
+C-_-  
+{  
+    color: rgb(19, 19, 19);  
+}  
+
+
