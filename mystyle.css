@@ -5,15 +5,11 @@ h1{
     line-height: 2em;
 }
 
-h2 {
-    color:rgb(167, 0, 0);
-}
-
 body{
     background-color:rgb(0, 0, 0);
     font-size: 1em;
     font-weight:normal;
-    color:honeydew;
+    color:white;
 }
 
 P{
@@ -27,7 +23,7 @@ em{
 }
 
 ol{
-    color:azure;
+    color:white;
     font-style: italic;
     list-style-type: decimal; 
 }
@@ -78,5 +74,68 @@ nav a:link {
 color:red; 
 }
 nav a:visited {
-    color:red; 
+    color:rgb(180, 0, 0); 
+}
+
+link {
+    color:White; 
+}
+a:visited {
+    color:White; 
+} 
+
+header
+{
+    padding:25px; 
+}
+
+aside
+{
+    width: 200px; 
+    margin: 0px 10px 10px 0px; 
+    height: 600px; 
+    padding: 10px; 
+    float: left; 
+}
+
+section
+{
+    width: 675px; 
+    margin: 0px 0px 10px 0px; 
+    height: 600px;
+    padding: 10px; 
+    float: right; 
+}
+
+
+footer
+{
+    clear: both; 
+    padding: 10px; 
+    height: 275px; 
+}
+
+#container 
+{
+    background-color:rgb(0, 0, 0); 
+    width: 960px; 
+    margin: 0 500px; 
+}
+
+main
+{
+    height: 500px;
+    width: 910px; 
+    padding:25px; 
+    background-color:rgb(0, 0, 0); 
+}
+img
+{
+    vertical-align: top; 
+    padding: 20px; 
+    margin:265px;
+}
+C-_-
+{
+    color: rgb(19, 19, 19);
 }
