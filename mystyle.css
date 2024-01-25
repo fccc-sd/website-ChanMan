@@ -10,7 +10,7 @@ body{
     font-size: 1em; 
     font-weight:normal; 
     color:white; 
-    
+
 }
 
 
@@ -56,6 +56,7 @@ ol{
     font: italic 1em/1em Arial, Helvetica, sans-serif; 
     font-size: 1.05em; 
 }
+
 #Friends{
     color:azure; 
 }
@@ -65,6 +66,7 @@ background-color: white;
 line-height:200%; 
 display:block; 
 }
+
 nav li 
 {
 display: inline; 
@@ -75,6 +77,7 @@ list-style-type: none;
 nav a:link {
 color:red; 
 }
+
 nav a:visited {
     color:rgb(180, 0, 0); 
 }
@@ -131,6 +134,7 @@ main
     padding:25px;  
     background-color:rgb(0, 0, 0);  
 } 
+
 img 
 { 
     vertical-align: top;  
@@ -138,6 +142,7 @@ img
     margin:265px;  
     float:initial; 
 } 
+
 C-_-  
 {  
     color: rgb(19, 19, 19);  
